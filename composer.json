@@ -1,0 +1,17 @@
+{
+  "name": "muinext/nsphp",
+  "description": "Customized NetSuite PHPToolKit",
+  "type": "PHPsdk",
+  "authors": [
+    {
+      "name": "Adnan Muin",
+      "email": "muinext@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "classmap": [
+      "src"
+    ]
+  }
+}
