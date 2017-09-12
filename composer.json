@@ -10,8 +10,8 @@
   ],
   "require": {},
   "autoload": {
-    "classmap": [
-      "PHPToolkit/"
+	"files": [
+      "PHPToolkit/NetSuiteService.php"
     ]
   }
 }

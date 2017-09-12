@@ -3,7 +3,7 @@
 /**
  * Copyright © 2015, NetSuite, Inc.
  */
-namespace NetSuite\WebServices;
+
 require_once "NSPHPClient.php";
 
 if (!class_exists("RecordType")) {

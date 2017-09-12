@@ -1,5 +1,4 @@
 <?php
-namespace NetSuite\WebServices;
 
 function arrayValuesAreEmpty ($array)
 {
